@@ -1,9 +1,6 @@
 <script setup lang="ts">
-import { ref } from "vue";
 import { Star } from "lucide-vue-next";
 import { testimonials } from "@/lib/landing-data";
-
-const activeSlide = ref(0);
 </script>
 
 <template>

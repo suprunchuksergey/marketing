@@ -4,7 +4,6 @@ import {
   TriangleAlert,
   Info,
   CheckCircle2,
-  ChevronRight,
 } from "lucide-vue-next";
 import { notifications, type NotificationType } from "@/lib/dashboard-data";
 
